@@ -1,0 +1,17 @@
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.exe
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.pdb
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.MainForm.resources
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Properties.Resources.resources
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.exe
+c:\users\aditya\documents\visual studio 2010\Projects\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.pdb
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.exe
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.pdb
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.exe
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\NaiveBayesClassifier.pdb
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.MainForm.resources
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.Properties.Resources.resources
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csproj.GenerateResource.Cache
+C:\Users\drew\Documents\CS 440\Assignment 3\part 1.1\NaiveBayesClassifier\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csprojResolveAssemblyReference.cache
